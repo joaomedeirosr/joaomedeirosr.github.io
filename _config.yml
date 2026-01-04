@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: 'blank' # the website title (if blank, full name will be used instead)
-first_name: Joao Victor
+first_name: Joao
 middle_name: null
 last_name: Rocha
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -50,7 +50,6 @@ repo_trophies:
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
-socials_in_search: true
 posts_in_search: true
 bib_search: true
 
@@ -88,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: notas curtas sobre robotica, IA e vida academica
+blog_description: Useful tutorial and notes about robotics, AI and programming
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
