@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. student in Robotics and Artificial Intelligence at <a href="https://unicamp.br/">Unicamp</a>
+subtitle: Msc. student Robotics and Artificial Intelligence at <a href="https://unicamp.br/">Unicamp</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_color.png
   image_circular: true # crops the image to make it circular
   more_info: >
 
@@ -24,11 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master's student in the [Department of Electrical Engineering](https://www.fee.unicamp.br/) at [Unicamp](https://unicamp.br/) and a Research Assistant at the [University of Manitoba](https://umanitoba.ca/). I earned my Bachelor's degree at the [Federal University of Uberlandia](https://ufu.br/).
+I am a Master's student in the [Department of Electrical Engineering](https://www.fee.unicamp.br/) at [Unicamp](https://unicamp.br/), advised by [Marconi Kolm Madrid](https://portal.edat.unicamp.br/perfil?origem=&docente=262706&sigla_unidade=&nome_unidade=&nome_programa=). I am also a Research Assistant at the [University of Manitoba](https://umanitoba.ca/) under the supervision of [Mirella Veras](https://umanitoba.ca/rehabilitation-sciences/faculty-staff/mirella-veras). I earned my Bachelor's degree in Electronic Engineering at the [Federal University of Uberlandia](https://ufu.br/). Currently, I am a Machine Learning Engineer at [Bem Agro](https://www.bemagro.com/).
 
-Currently, I am a Machine Learning Engineer at [Bem Agro](https://www.bemagro.com/).
-
-My research interests:
+#### Research interests
 - reinforcement learning
 - imitation learning
 - humanoid and legged robots
